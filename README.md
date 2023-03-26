@@ -60,3 +60,30 @@ Reference (https://github.com/ostaquet/Arduino-Nano-33-IoT-Ultimate-Guide)
 - A-2A - A7
 - B-1A - A4
 - B-2A - A5
+
+## Software 
+
+You can enable flags to activate to the sensor
+
+1. ACTIVATE_BT : Built-in Bluetooth module
+2. ACTIVATE_IMU : Built-in IMU Sensor module
+3. ACTIVATE_GPS : GPS Sensor module
+4. ACTIVATE_US : Ultrasonic Sensor module
+5. ACTIVATE_LS : Infrared Line Tracing Sensor module
+6. ACTIVATE_SERVO : Servo Motor module
+7. ACTIVATE_MOVE : DC Motor driver module
+
+
+## Images
+
+#### Left View
+![20230327_061921](https://user-images.githubusercontent.com/20044455/227808593-3ac7af19-8b87-46fa-a30f-7c9042bd0d9b.jpg)
+
+#### Right View
+![20230327_061929](https://user-images.githubusercontent.com/20044455/227808600-b414852c-4690-47fc-abcb-b0191fd68026.jpg)
+
+#### Bottom View
+![20230327_061939](https://user-images.githubusercontent.com/20044455/227808601-46d6abd8-d635-4feb-8aa2-9ee00a939094.jpg)
+
+#### Front View
+![20230327_061915](https://user-images.githubusercontent.com/20044455/227808603-108cc230-02ff-4b12-81ea-592fb03134c3.jpg)
