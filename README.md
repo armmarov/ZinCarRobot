@@ -56,10 +56,10 @@ Reference (https://github.com/ostaquet/Arduino-Nano-33-IoT-Ultimate-Guide)
 
 - GND - GND
 - VCC - 5V
-- A-1A - A6
-- A-2A - A7
-- B-1A - A4
-- B-2A - A5
+- A-1A - D6
+- A-2A - D7
+- B-1A - D4
+- B-2A - D5
 
 ## Software 
 
