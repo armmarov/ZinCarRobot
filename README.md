@@ -63,7 +63,7 @@ Reference (https://github.com/ostaquet/Arduino-Nano-33-IoT-Ultimate-Guide)
 
 ## Software 
 
-You can enable flags to activate to the sensor
+You can enable flags to activate sensors
 
 1. ACTIVATE_BT : Built-in Bluetooth module
 2. ACTIVATE_IMU : Built-in IMU Sensor module
